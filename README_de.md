@@ -129,8 +129,7 @@ Um einen Cluster von 15 Windows Server 2019 VMs zu erstellen, ändern Sie einfac
 ## 📂 Projektstruktur
 
 Das Repository ist so organisiert, dass es Modularität und Übersichtlichkeit fördert.
-Use code with caution.
-Markdown
+
 .
 ├── main.tf # Root-Modul - Haupteinstiegspunkt
 ├── variables.tf # Root-Variablendefinitionen
@@ -150,7 +149,7 @@ Markdown
 └── rds/ # RDS-Datenbank-Modul
 ├── main.tf
 └── ...
-Generated code
+
 ---
 
 ## 🤖 Automatisierung: CI/CD und Drift-Erkennung
