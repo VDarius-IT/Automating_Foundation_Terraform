@@ -1,8 +1,3 @@
-Of course. Here is the complete README.md file in a raw markdown format.
-
-You can click the "Copy" button in the top right corner of the code block below and paste the entire content directly into a README.md file in your GitHub repository.
-
-Generated markdown
 # Automated AWS Infrastructure with Terraform
 
 This project demonstrates a robust, repeatable, and version-controlled system for deploying and managing AWS infrastructure using Terraform. It showcases an Infrastructure as Code (IaC) approach to provision core networking (VPCs, Subnets), security (IAM), databases (RDS), and scalable compute resources (EC2).
