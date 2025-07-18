@@ -122,7 +122,7 @@ To create a cluster of 15 Windows Server 2019 virtual machines, simply modify yo
     Terraform will automatically create 15 EC2 instances, named `DC-1`, `DC-2`, etc., each with the specified OS and hardware configuration.
     ```sh
     terraform apply -var-file="environments/dev.tfvars"
-    ```
+    
 
 ---
 
