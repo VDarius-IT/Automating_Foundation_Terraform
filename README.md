@@ -151,9 +151,6 @@ The repository is organized to promote modularity and clarity.
 ├── main.tf
 └── ...
 
-Generated code
----
-
 ## 🤖 Automation: CI/CD and Drift Detection
 
 This project is designed to be managed through a CI/CD pipeline.
