@@ -1,11 +1,3 @@
-You are correct! The project structure is not formatted correctly because it's missing the Markdown code block specifiers. Without them, Markdown treats it as regular text and collapses the whitespace, ruining the tree structure.
-
-I have fixed this by wrapping the directory tree in a code block (```).
-
-Here are the corrected README.md files in both English and German.
-
-Corrected English README.md (Ready to copy)
-Generated markdown
 # Automated AWS Infrastructure with Terraform
 
 This project demonstrates a robust, repeatable, and version-controlled system for deploying and managing AWS infrastructure using Terraform. It showcases an Infrastructure as Code (IaC) approach to provision core networking (VPCs, Subnets), security (IAM), databases (RDS), and scalable compute resources (EC2).
