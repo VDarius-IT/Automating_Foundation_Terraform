@@ -51,7 +51,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 Ensure you have the following tools installed and configured:
 
-*   **Terraform v1.0+:** [Download Terraform]((https://developer.hashicorp.com/terraform/install))
+*   **Terraform v1.0+:** [Download Terraform](https://developer.hashicorp.com/terraform/install)
 *   **AWS CLI:** [Install AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
 *   **Configured AWS Credentials:** Your AWS account credentials must be configured for Terraform to access your account. You can do this by running `aws configure`.
 
