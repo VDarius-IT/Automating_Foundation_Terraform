@@ -16,7 +16,6 @@ The architecture is designed to be modular, scalable, and secure, suitable for m
 8.  [Security Considerations](#security-considerations)
 9.  [Cost Management](#cost-management)
 10. [Contributing](#contributing)
-11. [License](#license)
 
 ---
 
@@ -202,6 +201,3 @@ Be aware that deploying this infrastructure will incur costs on your AWS account
 
 Contributions, issues, and feature requests are welcome. Please open an issue to discuss your ideas or submit a pull request with your proposed changes.
 
-### License
-
-This project is distributed under the MIT License. See `LICENSE` for more information.
